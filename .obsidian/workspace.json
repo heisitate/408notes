@@ -185,13 +185,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "137a5bcea64b1c8e",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "未命名.base",
     "第一标题.md",
+    "新建 文本文档.txt",
     "未命名"
   ]
 }
