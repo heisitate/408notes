@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "2026-09-27"
             }
+          },
+          {
+            "id": "01e2893041dfc27f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
         "currentTab": 1
@@ -173,9 +183,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "27bba8949960b6e0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d077eb0e348f0cd",
+  "active": "2fceaa0713b8d206",
   "lastOpenFiles": [
-    "2026-09-26.md",
     "2026-09-27.md",
+    "2026-09-26.md",
     "2026-09-27",
     "2026-09-17.md"
   ]
