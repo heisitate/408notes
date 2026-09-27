@@ -120,7 +120,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f8e76b8a8899079b",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fceaa0713b8d206",
+  "active": "723113f0187c0519",
   "lastOpenFiles": [
     "2026-09-26.md",
     "2026-09-27.md",
