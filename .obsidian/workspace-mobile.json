@@ -61,7 +61,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
