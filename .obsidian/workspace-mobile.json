@@ -45,8 +45,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "f8e76b8a8899079b",
@@ -209,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fceaa0713b8d206",
+  "active": "732f0ac5d2322c58",
   "lastOpenFiles": [
     "2026-10-12.md",
     "2026-10-13.md",
