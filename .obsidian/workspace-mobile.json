@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点补弱/线代补弱.md",
+                "file": "知识点补弱/高数薄弱点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线代补弱"
+              "title": "高数薄弱点"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "7c1bce742f9b13f3",
   "lastOpenFiles": [
-    "知识点补弱/概率论薄弱点.md",
     "知识点补弱/线代补弱.md",
+    "知识点补弱/概率论薄弱点.md",
     "知识点补弱/高数薄弱点.md",
     "2026-10-17.md",
     "每日总结/2026-10-15.md",
